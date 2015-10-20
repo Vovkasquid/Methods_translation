@@ -11,6 +11,7 @@ DELIM [" "\t\n]
 [A-z]{DELIM}		 { unput(yytext[0]);}
 {DELIM}[A-z]		 { unput(yytext[1]);}
 [A-z][A-z]       {n++; printf("%s",yytext); printf("  ");  }
+.			;
 
 %%
 
