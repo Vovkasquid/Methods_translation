@@ -3,7 +3,7 @@ M [0-9]{2}
 G [0-9]{4}
 H [0-9]{2}
 MIN [0-9]{2}
-OST [A-z я<>0-9"."" ""\t"]
+OST [^a-zA-Z я<>0-9"."" "]
     FILE* f;
     FILE* fl;
     int n; 
@@ -15,6 +15,8 @@ OST [A-z я<>0-9"."" ""\t"]
 ({D}"."[0][0]"."{G}|({D}"."[2-9[0-9]"."{G}|({D}"."[1][3-9]"."{G}))).*\n {fprintf(fl,"Error month: %s", yytext);}
 ({D}"."{M}"."[0-1][0-9]{3}|({D}"."{M}"."[2][0][1][6-9]|({D}"."{M}"."[3-9][0-9]{3}|({D}"."{M}"."[2][1-9][0-9]{2})))).*\n {fprintf(fl, "Error year: %s", yytext);}
 ({D}"."{M}"."{G}" "" "[3-9][0-9]|{D}"."{M}"."{G}" "" "[2][4-9]).*\n {fprintf(fl, "Error hours: %s", yytext); }
+({D}"."{M}"."{G}" "" "{H}":"[6-9][0-9]).*\n {fprintf(fl, "Error minute: %s", yytext);}
+({D}"."{M}"."{G}" "" "{H}":"{M}){OST}*\n {fprintf(fl,"Error Name: %s", yytext);}
 .*\n 				{fprintf(f, "%s", yytext); n++; }
 
 
