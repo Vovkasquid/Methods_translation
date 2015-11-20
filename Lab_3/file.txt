@@ -1,0 +1,26 @@
+20.10.2015  16:31    <DIR>          .
+20.10.2015  16:31    <DIR>          ..
+26.08.2014  00:24    <DIR>          .IdeaIC13
+26.05.2015  23:14               188 .packettracer
+23.09.2015  22:48    <DIR>          .QtWebEngineProcess
+19.10.2014  16:45    <DIR>          .swt
+23.09.2015  22:48    <DIR>          .ViberPC
+24.05.2015  20:05    <DIR>          Cisco Packet Tracer 6.2sv
+16.10.2015  00:19    <DIR>          Contacts
+14.05.2014  19:48    <DIR>          D-Fend Reloaded
+16.10.2015  00:19    <DIR>          Desktop
+16.10.2015  00:19    <DIR>          Documents
+16.10.2015  00:19    <DIR>          Downloads
+16.10.2015  00:19    <DIR>          Favorites
+20.10.2015  16:31                 0 file.txt
+29.09.2014  10:07    <DIR>          IdeaProjects
+28.08.2014  01:57    <DIR>          JavaRushHomeWork
+16.10.2015  00:19    <DIR>          Links
+16.10.2015  00:19    <DIR>          Music
+20.10.2015  00:40    <DIR>          OneDrive
+16.10.2015  00:19    <DIR>          Pictures
+16.10.2015  00:19    <DIR>          Saved Games
+16.10.2015  00:19    <DIR>          Searches
+05.11.2014  10:37    <DIR>          SkyDrive
+05.09.2015  21:54    <DIR>          Tracing
+20.10.2015  00:12    <DIR>          Videos

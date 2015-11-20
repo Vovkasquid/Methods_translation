@@ -1,0 +1,17 @@
+Error hours: 20.10.2015  55:31    <DIR>          .
+Error Name: 20.10.2015  16:31||||||
+Error day: 46.08.2014  00:24    <DIR>          .IdeaIC13
+Error month: 19.00.2014  16:45    <DIR>          .swt
+Error year: 23.09.2029  22:48    <DIR>          .ViberPC
+Error day: 54.05.2015  20:05    <DIR>          Cisco Packet Tracer 6.2sv
+Error month: 16.13.2015  00:19    <DIR>          Contacts
+Error year: 16.10.3000  00:19    <DIR>          Desktop
+Error day: 96.10.2015  00:19    <DIR>          Documents
+Error year: 16.10.2029  00:89    <DIR>          Downloads
+Error day: 31.11.2015  00:19    <DIR>          Favorites
+Error day: 29.02.2014  10:07    <DIR>          IdeaProjects
+Error minute: 16.10.2015  00:60    <DIR>          Music
+Error year: 16.10.9999  00:19    <DIR>          Saved Games
+Error year: 05.11.2016  15:37    <DIR>          SkyDrive
+Error hours: 05.09.2000  24:54    <DIR>          Tracing
+Error year: 20.10.1999  00:12    <DIR>          Videos
